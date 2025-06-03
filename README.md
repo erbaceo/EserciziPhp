@@ -1,3 +1,4 @@
 # EserciziPhp
-Esercizi di php\n
+Esercizi di php
+
 1-Somma di due numeri
